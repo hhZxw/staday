@@ -1,0 +1,1 @@
+include ':app', ':lib-base', ':lib-core', ':lib-image', ':lib-web', ':lib-zxing', ':lib-mob', ':lib-pay'
